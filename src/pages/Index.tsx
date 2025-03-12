@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { useToast } from "../hooks/use-toast";
@@ -272,7 +271,7 @@ const Index = () => {
           >
             <div className="relative floating">
               <img
-                src="https://postimg.cc/SJKp62qS"
+                src="https://i.postimg.cc/J4N4WZ2k/create-a-book-cover-only-not-the-entire-book-ti.png"
                 alt="LLM Prompts for Project Managers Book Cover"
                 className="max-w-xs md:max-w-md rounded-2xl mx-auto shadow-2xl"
                 loading="lazy"
@@ -535,7 +534,7 @@ const Index = () => {
               viewport={{ once: true }}
             >
               <img 
-                src="https://postimg.cc/ftv6XZrS" 
+                src="https://i.postimg.cc/x8rYw1G5/create-a-headshot-of-a-middle-aged-white-man-this.png" 
                 alt="Author" 
                 className="rounded-xl shadow-lg w-full max-w-md mx-auto"
                 loading="lazy"
